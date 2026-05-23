@@ -63,7 +63,7 @@ I design software systems with a heavy emphasis on reliability, low latency, and
 - **Role:** Joint Core Developer / Infrastructure Engineer.
 - **📖 Read the Blueprint:** [Detailed Case Study on Optimizing Service Delivery Communications via Asynchronous Coroutines](./CASE_STUDY_THEKLEENERAPP.md).
 
-#### 🧬 [Python DSA Training Hub](https://github.com)
+#### 🧬 [Python DSA Training Hub](https://github.com/johnmba/dsa)
 *A dedicated training playground tracking computational logic, runtime speed, and memory optimization.*
 - **Concepts Practiced:** Graphs (Routing Networks), Binary Trees, Dynamic Programming (Optimization Problems), and Linked Lists.
 - **Implementation Strategy:** Every challenge includes a brute-force approach, a highly optimized Python revision, and full Time/Space complexity documentation.
